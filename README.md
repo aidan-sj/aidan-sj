@@ -5,7 +5,7 @@ I'm Aidan, a senior high school student looking forwards to graduating!
 
 🌱 I'm currently learning: Using programming languages in VS-Code
 
-💬 Ask me about: Music, literature, or automotive work!
+💬 Ask me about: Music, literature, or automotive work! (my spotify is here: https://open.spotify.com/user/ajminesweeper)
 
 📫 How to reach me: aidan.jayatunge@gmail.com
 
