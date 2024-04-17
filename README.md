@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there! 👋
+I'm Aidan, a senior high school student looking forwards to graduating!
 
-<!--
-**aidan-sj/aidan-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: Java Swing GUI Exercises 
 
-Here are some ideas to get you started:
+🌱 I'm currently learning: Using programming languages in VS-Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Music, literature, or automotive work!
+
+📫 How to reach me: aidan.jayatunge@gmail.com
+
+⚡ Fun fact: I own 8 guitars and am in a band called Just July
+
+👨‍💻 Languages and Tools: Python, JavaScript, HTML
