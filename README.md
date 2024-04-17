@@ -1,4 +1,4 @@
-Hi there! 👋
+Howdy! 👋
 I'm Aidan, a senior high school student looking forwards to graduating!
 
 🔭 Currently working on: Java Swing GUI Exercises 
